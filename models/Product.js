@@ -1,23 +1,34 @@
 const mongoose = require('mongoose');
+
 const ProductSchema = new mongoose.Schema({
-    image: {
+    property_pic: {
         type: String,
         required: [true, 'Please enter a title']
     },
-    name: [{
+    pet: {
         type: String,
         required: [true, 'Please enter a title']
-    }],
-    color: [{
+    },
+    name: {
         type: String,
         required: [true, 'Please enter a color']
-    }],
-
-    amount: {
-        type: Number,
-        required: [true, 'Please enter a price']
-    }
-    
+    },
+    level: {
+        type: String,
+        required: [true, 'Please enter a color']
+    },
+    bedroom: {
+        type: String,
+        required: [true, 'Please enter a color']
+    },
+    bathroom: {
+        type: String,
+        required: [true, 'Please enter a color']
+    },
+    propertytype: {
+        type: String,
+        required: [true, 'Please enter a color']
+    }    
 });
 
 const Product = mongoose.model('Product', ProductSchema);
