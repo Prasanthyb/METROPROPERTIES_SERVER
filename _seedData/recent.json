@@ -1,0 +1,43 @@
+[
+    {
+      "property_pic": "images/properties/studio11.jpg",
+      "id": 1,
+      "pet": "Yes",
+      "name": "Studio",
+      "level": "$500-$1000",
+      "bedroom": "Three Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Studio"
+    },
+    {
+      "property_pic": "images/properties/house11.jpg",
+      "id": 2,
+      "pet": "Yes",
+      "name": "House",
+      "level": "$1000-$2500",
+      "bedroom": "Two Bedroom",
+      "bathroom": "Half Bathroom",
+      "propertytype": "House"
+    },
+    {
+      "property_pic": "images/properties/apartment11.jpg",
+      "id": 3,
+      "pet": "No",
+      "name": "Apartment",
+      "level": "above $2500",
+      "bedroom": "Three Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Apartment"
+    },
+    {
+      "property_pic": "images/properties/section11.jpg",
+      "id":4,
+      "pet": "Yes",
+      "name": "Section",
+      "level": "$1000-$2500",
+      "bedroom": "Two Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Section"    
+    }
+  
+  ]

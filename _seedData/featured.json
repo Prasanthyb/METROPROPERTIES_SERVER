@@ -1,0 +1,43 @@
+[
+    {
+      "property_pic": "images/properties/townhouse22.jpg",
+      "id": 1,
+      "pet": "Yes",
+      "name": "Townhouse",
+      "level": "$500-$1000",
+      "bedroom": "Three Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Townhouse"
+    },
+    {
+      "property_pic": "images/properties/studio22.jpg",
+      "id": 2,
+      "pet": "Yes",
+      "name": "Studio",
+      "level": "$200-$500",
+      "bedroom": "Two Bedroom",
+      "bathroom": "Half Bathroom",
+      "propertytype": "Studio"
+    },
+    {
+      "property_pic": "images/properties/retirementliving22.jpg",
+      "id": 3,
+      "pet": "No",
+      "name": "Retirement Living",
+      "level": "$1000-$2500",
+      "bedroom": "Three Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Retirement Living"
+    },
+    {
+      "property_pic": "images/properties/carpark22.jpg",
+      "id":4,
+      "pet": "Yes",
+      "name": "Carpark",
+      "level": "$100-$200",
+      "bedroom": "Two Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Carpark"    
+    }
+  ]
+

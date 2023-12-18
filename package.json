@@ -4,12 +4,14 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
-    "import": "node seedData.js -i",
-    "delete": "node seedData.js -d",
-    "delete-user": "node seedData.js -d",
-    "add-user": "node seedData.js -a",
-    "modify-user": "node seedData.js -m",  
-    "test": "jest --coverage"
+    "import-product": "node seedData.js -i-product",
+    "import-featured": "node seedData.js -i-featured",
+    "import-new": "node seedData.js -i-new",
+    "import-recent": "node seedData.js -i-recent",
+    "delete-product": "node seedData.js -d-product",
+    "delete-featured": "node seedData.js -d-featured",
+    "delete-new": "node seedData.js -d-new",
+    "delete-recent": "node seedData.js -d-recent"
   },
   
   "dependencies": {

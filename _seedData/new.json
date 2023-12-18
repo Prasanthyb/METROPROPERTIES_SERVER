@@ -1,0 +1,43 @@
+[
+    {
+      "property_pic": "images/properties/house33.jpg",
+      "id":1,
+      "pet": "No",
+      "name": "House",
+      "level": "$1000-$2500",
+      "bedroom": "Two Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "House"   
+    },
+    {
+      "property_pic": "images/properties/unit33.jpg",
+      "id":2,
+      "pet": "Yes",
+      "name": "Unit",
+      "level": "$500-$1000",
+      "bedroom": "Two Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Unit"   
+    },
+    {
+      "property_pic": "images/properties/boatshed33.jpg",
+      "id":3,
+      "pet": "No",
+      "name": "Boatshed",
+      "level": "$100-$200",
+      "bedroom": "Boatshed",
+      "bathroom": "Half Bathroom",
+      "propertytype": "Boatshed"   
+    },
+    {
+      "property_pic": "images/properties/retirementliving33.jpg",
+      "id":4,
+      "pet": "Yes",
+      "name": "Retirement Living ",
+      "level": "above $2500",
+      "bedroom": "Three Bedroom",
+      "bathroom": "Full Bathroom",
+      "propertytype": "Retirement Living"   
+    }
+  
+  ]

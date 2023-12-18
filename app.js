@@ -27,14 +27,14 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 // Load Routes
 const productRouter=require('./routes/products');
-
-
-
+const featuredRouter=require('./routes/featured');
+const newRouter=require('./routes/new');
+const recentRouter=require('./routes/recent');
 // Use Routes
 app.use('/products', productRouter);
-
-
-
+app.use('/featured', featuredRouter);
+app.use('/new', newRouter);
+app.use('/recent',recentRouter);
 
 
 
