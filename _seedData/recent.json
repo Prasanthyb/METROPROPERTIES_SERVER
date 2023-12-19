@@ -1,7 +1,7 @@
 [
     {
       "property_pic": "images/properties/studio11.jpg",
-      "id": 1,
+      "id": 41,
       "pet": "Yes",
       "name": "Studio",
       "level": "$500-$1000",
@@ -11,7 +11,7 @@
     },
     {
       "property_pic": "images/properties/house11.jpg",
-      "id": 2,
+      "id": 42,
       "pet": "Yes",
       "name": "House",
       "level": "$1000-$2500",
@@ -21,7 +21,7 @@
     },
     {
       "property_pic": "images/properties/apartment11.jpg",
-      "id": 3,
+      "id": 43,
       "pet": "No",
       "name": "Apartment",
       "level": "above $2500",
@@ -31,7 +31,7 @@
     },
     {
       "property_pic": "images/properties/section11.jpg",
-      "id":4,
+      "id":44,
       "pet": "Yes",
       "name": "Section",
       "level": "$1000-$2500",

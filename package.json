@@ -4,14 +4,14 @@
   "private": true,
   "scripts": {
     "start": "nodemon ./bin/www",
-    "import-product": "node seedData.js -i-product",
-    "import-featured": "node seedData.js -i-featured",
-    "import-new": "node seedData.js -i-new",
-    "import-recent": "node seedData.js -i-recent",
-    "delete-product": "node seedData.js -d-product",
-    "delete-featured": "node seedData.js -d-featured",
-    "delete-new": "node seedData.js -d-new",
-    "delete-recent": "node seedData.js -d-recent"
+    "import-product": "node seedData.js import-product",
+    "import-featured": "node seedData.js import-featured",
+    "import-new": "node seedData.js import-new",
+    "import-recent": "node seedData.js import-recent",
+    "delete-product": "node seedData.js delete-product",
+    "delete-featured": "node seedData.js delete-featured",
+    "delete-new": "node seedData.js delete-new",
+    "delete-recent": "node seedData.js delete-recent"
   },
   
   "dependencies": {

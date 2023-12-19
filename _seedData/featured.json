@@ -1,7 +1,7 @@
 [
     {
       "property_pic": "images/properties/townhouse22.jpg",
-      "id": 1,
+      "id":33,
       "pet": "Yes",
       "name": "Townhouse",
       "level": "$500-$1000",
@@ -11,7 +11,7 @@
     },
     {
       "property_pic": "images/properties/studio22.jpg",
-      "id": 2,
+      "id": 34,
       "pet": "Yes",
       "name": "Studio",
       "level": "$200-$500",
@@ -21,7 +21,7 @@
     },
     {
       "property_pic": "images/properties/retirementliving22.jpg",
-      "id": 3,
+      "id": 35,
       "pet": "No",
       "name": "Retirement Living",
       "level": "$1000-$2500",
@@ -31,7 +31,7 @@
     },
     {
       "property_pic": "images/properties/carpark22.jpg",
-      "id":4,
+      "id":36,
       "pet": "Yes",
       "name": "Carpark",
       "level": "$100-$200",
