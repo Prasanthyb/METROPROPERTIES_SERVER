@@ -44,6 +44,8 @@ const getSingleProduct = async (req, res) => {
   }
 };
 
+// ~~~~~~~~~~~~~CREATE~~~~~~~~~~~~~~~//
+
 const createProduct = async (req, res) => {
   const product = await Product.create(req.body);
 
@@ -55,40 +57,7 @@ const createProduct = async (req, res) => {
   }
 };
 
-// ~~~~~~~~~~~~SENDING MATCHING CARS FROM products COLLECTION TO CLIENT~~~~~~~~~~~~~~~
-
-const getCars = async (req, res) => {
-  try {
-    const color = req.body.data;
-    console.log(color);
-
-    // Use color parameter in the query to filter products by color
-    const prod = await Product.find({ color: color });
-    console.log(prod)
-
-    if (!prod || prod.length === 0) {
-      const error = new CustomError(`No cars found with the specified color.`, 404);
-      return res.status(error.statusCode).json({
-        success: false,
-        error: error.message
-      });
-    }
-
-    res.status(200).json({
-      success: true,
-      count: prod.length,
-      products: prod
-    });
-  } catch (error) {
-    // Handle any unexpected errors
-    console.error(error);
-    const customError = new CustomError(`Something went wrong, try again later.`, 500);
-    res.status(customError.statusCode).json({
-      success: false,
-      error: customError.message
-    });
-  }
-};
 
 
-module.exports = { getProducts, getSingleProduct, createProduct, getCars };
+
+module.exports = { getProducts, getSingleProduct, createProduct };
