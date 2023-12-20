@@ -1,0 +1,26 @@
+version: '3.7'
+
+services:
+
+  server:
+    build:
+      context: .
+    depends_on:
+      - mongodb
+    command: ["./node_modules/.bin/nodemon", "./bin/www"]
+    ports:
+      - "4000:4000"
+    volumes:
+      - .:/home/node/app:delegated
+      - node_modules:/home/node/app/node_modules
+
+  mongodb:
+    image: mongo
+    environment:
+      - MONGO_INITDB_DATABASE=mission5
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  node_modules:
+  mongo_data:
