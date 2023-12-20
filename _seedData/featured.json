@@ -1,43 +1,66 @@
 [
-    {
-      "property_pic": "images/properties/townhouse22.jpg",
-      "id":33,
-      "pet": "Yes",
-      "name": "Townhouse",
-      "level": "$500-$1000",
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Townhouse"
-    },
-    {
-      "property_pic": "images/properties/studio22.jpg",
-      "id": 34,
-      "pet": "Yes",
-      "name": "Studio",
-      "level": "$200-$500",
-      "bedroom": "Two Bedroom",
-      "bathroom": "Half Bathroom",
-      "propertytype": "Studio"
-    },
-    {
-      "property_pic": "images/properties/retirementliving22.jpg",
-      "id": 35,
-      "pet": "No",
-      "name": "Retirement Living",
-      "level": "$1000-$2500",
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Retirement Living"
-    },
-    {
-      "property_pic": "images/properties/carpark22.jpg",
-      "id":36,
-      "pet": "Yes",
-      "name": "Carpark",
-      "level": "$100-$200",
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Carpark"    
-    }
-  ]
-
+  {
+    "property_pic": "images/properties/townhouse22.jpg",
+    "id": 38,
+    "pet": "Yes",
+    "name": "Townhouse",
+    "level": "$500-$1000",
+    "bedroom": "Three Bedroom",
+    "bathroom": "Full Bathroom",
+    "propertytype": "Townhouse",
+    "icon1": "images/properties/bed.png",
+   "number1": 3,
+   "icon2": "images/properties/bath.png",
+   "number2": 1,
+   "icon3": "images/properties/car.png",
+   "number3":2
+  },
+  {
+    "property_pic": "images/properties/studio22.jpg",
+    "id": 39,
+    "pet": "Yes",
+    "name": "Studio",
+    "level": "$200-$500",
+    "bedroom": "Two Bedroom",
+    "bathroom": "Half Bathroom",
+    "propertytype": "Studio",
+    "icon1": "images/properties/bed.png",
+   "number1": 2,
+   "icon2": "images/properties/bath.png",
+   "number2": 1,
+   "icon3": "images/properties/car.png",
+   "number3":1
+  },
+  {
+    "property_pic": "images/properties/retirementliving22.jpg",
+    "id": 40,
+    "pet": "No",
+    "name": "Retirement Living",
+    "level": "$1000-$2500",
+    "bedroom": "Three Bedroom",
+    "bathroom": "Full Bathroom",
+    "propertytype": "Retirement Living",
+    "icon1": "images/properties/bed.png",
+   "number1": 3,
+   "icon2": "images/properties/bath.png",
+   "number2": 1,
+   "icon3": "images/properties/car.png",
+   "number3":2
+  },
+  {
+    "property_pic": "images/properties/carpark22.jpg",
+    "id":41,
+    "pet": "Yes",
+    "name": "Carpark",
+    "level": "$100-$200",
+    "bedroom": "Two Bedroom",
+    "bathroom": "Full Bathroom",
+    "propertytype": "Carpark",
+    "icon1": "images/properties/bed.png",
+   "number1": 2,
+   "icon2": "images/properties/bath.png",
+   "number2": 2,
+   "icon3": "images/properties/car.png",
+   "number3":1    
+  }
+]
