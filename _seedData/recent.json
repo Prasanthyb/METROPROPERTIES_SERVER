@@ -1,43 +1,67 @@
 [
-    {
-      "property_pic": "images/properties/studio11.jpg",
-      "id": 41,
-      "pet": "Yes",
-      "name": "Studio",
-      "level": "$500-$1000",
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Studio"
-    },
-    {
-      "property_pic": "images/properties/house11.jpg",
-      "id": 42,
-      "pet": "Yes",
-      "name": "House",
-      "level": "$1000-$2500",
-      "bedroom": "Two Bedroom",
-      "bathroom": "Half Bathroom",
-      "propertytype": "House"
-    },
-    {
-      "property_pic": "images/properties/apartment11.jpg",
-      "id": 43,
-      "pet": "No",
-      "name": "Apartment",
-      "level": "above $2500",
-      "bedroom": "Three Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Apartment"
-    },
-    {
-      "property_pic": "images/properties/section11.jpg",
-      "id":44,
-      "pet": "Yes",
-      "name": "Section",
-      "level": "$1000-$2500",
-      "bedroom": "Two Bedroom",
-      "bathroom": "Full Bathroom",
-      "propertytype": "Section"    
-    }
-  
-  ]
+  {
+    "property_pic": "images/properties/studio11.jpg",
+    "id": 34,
+    "pet": "Yes",
+    "name": "Studio",
+    "level": "$500-$1000",
+    "bedroom": "Three Bedroom",
+    "bathroom": "Full Bathroom",
+    "propertytype": "Studio",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":2
+  },
+  {
+    "property_pic": "images/properties/house11.jpg",
+    "id": 35,
+    "pet": "Yes",
+    "name": "House",
+    "level": "$1000-$2500",
+    "bedroom": "Two Bedroom",
+    "bathroom": "Half Bathroom",
+    "propertytype": "House",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0
+  },
+  {
+    "property_pic": "images/properties/apartment11.jpg",
+    "id": 36,
+    "pet": "No",
+    "name": "Apartment",
+    "level": "above $2500",
+    "bedroom": "Three Bedroom",
+    "bathroom": "Full Bathroom",
+    "propertytype": "Apartment",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1
+  },
+  {
+    "property_pic": "images/properties/section11.jpg",
+    "id":37,
+    "pet": "Yes",
+    "name": "Section",
+    "level": "$1000-$2500",
+    "bedroom": "Two Bedroom",
+    "bathroom": "Full Bathroom",
+    "propertytype": "Section",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1    
+  }
+
+]

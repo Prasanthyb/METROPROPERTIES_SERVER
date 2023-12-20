@@ -7,7 +7,13 @@
     "level": "$500-$1000",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Apartment"
+    "propertytype": "Apartment",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":2
   },
   {
     "property_pic": "images/properties/apartment2.jpg",
@@ -17,7 +23,13 @@
     "level": "$200-$500",
     "bedroom": "Two Bedroom",
     "bathroom": "Half Bathroom",
-    "propertytype": "Apartment"
+    "propertytype": "Apartment",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1
   },
   {
     "property_pic": "images/properties/apartment3.jpg",
@@ -27,7 +39,13 @@
     "level": "$1000-$2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Apartment"
+    "propertytype": "Apartment",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2":2 ,
+     "icon3": "images/properties/car.png",
+     "number3":0
   },
   {
     "property_pic": "images/properties/apartment4.jpg",
@@ -37,7 +55,13 @@
     "level": "above $2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Apartment"
+    "propertytype": "Apartment",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":1
   },
   {
     "property_pic": "images/properties/boatshed.jpg",
@@ -47,7 +71,13 @@
     "level": "$100-$200",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Boatshed"
+    "propertytype": "Boatshed",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0
   },
   {
     "property_pic": "images/properties/boatshed1.jpg",
@@ -57,7 +87,13 @@
     "level": "$200-$500",
     "bedroom": "Studio",
     "bathroom": "Half Bathroom",
-    "propertytype": "Boatshed"
+    "propertytype": "Boatshed",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0
   },
   {
     "property_pic": "images/properties/boatshed2.jpg",
@@ -67,7 +103,13 @@
     "level": "$200-$500",
     "bedroom": "Studio",
     "bathroom": "Half Bathroom",
-    "propertytype": "Boatshed"
+    "propertytype": "Boatshed",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0
   },
   {
     "property_pic": "images/properties/carpark1.jpg",
@@ -77,7 +119,13 @@
     "level": "$100-$200",
     "bedroom": "Not available",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Carpark"
+    "propertytype": "Carpark",
+    "icon1": "images/properties/bed.png",
+     "number1": 0,
+     "icon2": "images/properties/bath.png",
+     "number2": 0,
+     "icon3": "images/properties/car.png",
+     "number3":0
   },
   {
     "property_pic": "images/properties/carpark2.jpg",
@@ -87,7 +135,13 @@
     "level": "$200-$500",
     "bedroom": "Not available",
     "bathroom": "Half Bathroom",
-    "propertytype": "Carpark"
+    "propertytype": "Carpark",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0
   },
   {
     "property_pic": "images/properties/carpark3.jpg",
@@ -97,7 +151,13 @@
     "level": "$500-$1000",
     "bedroom": "Not available",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Carpark"
+    "propertytype": "Carpark",
+    "icon1": "images/properties/bed.png",
+     "number1": 0,
+     "icon2": "images/properties/bath.png",
+     "number2": 0,
+     "icon3": "images/properties/car.png",
+     "number3":1
   },
 
   {
@@ -108,7 +168,13 @@
     "level": "$500-$1000",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "House"
+    "propertytype": "House",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":2
   },
   {
     "property_pic": "images/properties/house2.jpg",
@@ -118,7 +184,13 @@
     "level": "$1000-$2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "House"
+    "propertytype": "House",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":2
   },
   {
     "property_pic": "images/properties/house3.jpg",
@@ -128,7 +200,13 @@
     "level": "$500-$1000",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "House"
+    "propertytype": "House",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1
   },
   {
     "property_pic": "images/properties/house4.jpg",
@@ -138,7 +216,13 @@
     "level": "above $2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "House"
+    "propertytype": "House",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":2
   },
   {
     "property_pic": "images/properties/retirementliving.jpg",
@@ -148,7 +232,13 @@
     "level": "$1000-$2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Retirement Living"    
+    "propertytype": "Retirement Living",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":2    
   },
   {
     "property_pic": "images/properties/retirementliving1.jpg",
@@ -158,7 +248,13 @@
     "level": "$500-$1000",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Retirement Living"   
+    "propertytype": "Retirement Living",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/retirementliving2.jpg",
@@ -168,7 +264,13 @@
     "level": "$100-$200",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Retirement Living"    
+    "propertytype": "Retirement Living",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0  
   },
   {
     "property_pic": "images/properties/section1.jpg",
@@ -178,7 +280,13 @@
     "level":"$100-$200",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Section"    
+    "propertytype": "Section" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/section2.jpg",
@@ -188,7 +296,13 @@
     "level": "above $2500",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Section"    
+    "propertytype": "Section" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/section3.jpg",
@@ -198,7 +312,13 @@
     "level": "$1000-$2500",
     "bedroom": "Studio",
     "bathroom": "Half Bathroom",
-    "propertytype": "Section"    
+    "propertytype": "Section",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":2    
   },
   {
     "property_pic": "images/properties/studio1.jpg",
@@ -208,7 +328,13 @@
     "level": "$100-$200",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Studio"    
+    "propertytype": "Studio",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1    
   },
   {
     "property_pic": "images/properties/studio2.jpg",
@@ -218,7 +344,13 @@
     "level": "$200-$500",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Studio"    
+    "propertytype": "Studio",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/studio3.jpg",
@@ -228,7 +360,13 @@
     "level": "$500-$1000",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Studio"    
+    "propertytype": "Studio" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0  
   },
   {
     "property_pic": "images/properties/studio4.jpg",
@@ -238,7 +376,13 @@
     "level": "$1000-$2500",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Studio"    
+    "propertytype": "Studio",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/studio5.jpg",
@@ -248,7 +392,13 @@
     "level": "$200-$500",
     "bedroom": "One Bedroom",
     "bathroom": "Half Bathroom",
-    "propertytype": "Studio"    
+    "propertytype": "Studio" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/townhouse1.jpg",
@@ -258,7 +408,13 @@
     "level": "$1000-$2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Townhouse"    
+    "propertytype": "Townhouse" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":2   
   },
   {
     "property_pic": "images/properties/townhouse2.jpg",
@@ -268,7 +424,13 @@
     "level": "$100-$200",
     "bedroom": "One Bedroom",
     "bathroom": "Half Bathroom",
-    "propertytype": "Townhouse"    
+    "propertytype": "Townhouse" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":0   
   },
   {
     "property_pic": "images/properties/townhouse3.jpg",
@@ -278,7 +440,13 @@
     "level": "$500-$1000",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Townhouse"    
+    "propertytype": "Townhouse" ,
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1  
   },
   {
     "property_pic": "images/properties/unit1.jpg",
@@ -288,7 +456,13 @@
     "level": "$200-$500",
     "bedroom": "One Bedroom",
     "bathroom": "Shared Bathroom",
-    "propertytype": "Unit"   
+    "propertytype": "Unit",
+    "icon1": "images/properties/bed.png",
+     "number1": 1,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/unit2.jpg",
@@ -298,7 +472,13 @@
     "level": "$1000-$2500",
     "bedroom": "Two Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Unit"   
+    "propertytype": "Unit",
+    "icon1": "images/properties/bed.png",
+     "number1": 2,
+     "icon2": "images/properties/bath.png",
+     "number2": 2,
+     "icon3": "images/properties/car.png",
+     "number3":1  
   },
   {
     "property_pic": "images/properties/unit3.jpg",
@@ -308,7 +488,13 @@
     "level": "$500-$1000",
     "bedroom": "Three Bedroom",
     "bathroom": "Half Bathroom",
-    "propertytype": "Unit"   
+    "propertytype": "Unit",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":1   
   },
   {
     "property_pic": "images/properties/unit4.jpg",
@@ -318,6 +504,12 @@
     "level": "above $2500",
     "bedroom": "Three Bedroom",
     "bathroom": "Full Bathroom",
-    "propertytype": "Unit"   
+    "propertytype": "Unit",
+    "icon1": "images/properties/bed.png",
+     "number1": 3,
+     "icon2": "images/properties/bath.png",
+     "number2": 1,
+     "icon3": "images/properties/car.png",
+     "number3":2   
   }
 ]

@@ -28,7 +28,34 @@ const FeaturedSchema = new mongoose.Schema({
     propertytype: {
         type: String,
         required: [true, 'Please enter a color']
-    }    
+    } ,
+    icon1: {
+        type: String,
+        required: [true, 'Please enter a color']
+    } ,
+   number1: {
+        type: Number,
+        required: [true, 'Please enter a color']
+    } ,
+    icon2: {
+        type: String,
+        required: [true, 'Please enter a color']
+    } ,
+   number2: {
+        type: Number,
+        required: [true, 'Please enter a color']
+    } ,
+    icon3: {
+        type: String,
+        required: [true, 'Please enter a color']
+    }, 
+    number3: {
+        type: Number,
+        required: [true, 'Please enter a color']
+    } 
+
+
+
 });
 
 const Featured = mongoose.model('Featured', FeaturedSchema);
