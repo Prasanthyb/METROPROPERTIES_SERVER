@@ -29,6 +29,7 @@ Container
 Docker-compose files 2 files are there we can run server alone and the project as a whole.
 
 Thae outer docker-compose file is 
+
 version: '3.7'
 
 services:
