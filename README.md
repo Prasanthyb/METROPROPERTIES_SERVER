@@ -1,11 +1,16 @@
-  react-router-dom
+
+# Welcome to METROPROPERTIES-A rental property site to find the best available property .
+
+# Front end packages are
+
+         react-router-dom
              material UI
              mediaqueries
                axios
              fontawesome                 
               emailjs-com
              react-datetime-picker
-Backend
+# Backend packages are
 
 Packages used
 
