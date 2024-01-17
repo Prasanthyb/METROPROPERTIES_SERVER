@@ -12,28 +12,30 @@
              react-datetime-picker
 # Backend packages are
 
-Packages used
+# Packages used
 
         Express Generator
             nodemon
              mongoose
              colors
              morgan
-Testing
+# Testing
 
        jest
      jest-coverage
-Database
+# Database
      Mongodb
-Container
+     
+# Container
 
       Docker-compose
 
   Built 3 containers for 
     frontend,sever,Database 
+    
 Docker-compose files 2 files are there we can run server alone and the project as a whole.
 
-Thae outer docker-compose file is 
+# Thae outer docker-compose file is 
 
 version: '3.7'
 
